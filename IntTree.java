@@ -1,6 +1,6 @@
 // Binary trees of nodes that contain integers
 //
-// CS 201
+// Celia Choy
 
 public class IntTree {
         
