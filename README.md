@@ -1,2 +1,2 @@
 # heap-tree-test
-Applet that shows complete heap tree and skewed heap tree
+Run the Heap Tree Test. It will show the applet that shows the complete heap tree and skewed heap tree.
