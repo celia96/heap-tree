@@ -2,9 +2,7 @@
 //
 // based on Bailey's "VectorHeap"
 //
-// CS 201 HW 7
-//
-// Name:
+// Celia Choy
 
 import java.util.*;     // uses Java's Vectors so that browser can find them
 
