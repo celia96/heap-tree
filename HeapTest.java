@@ -1,8 +1,6 @@
 // Applet to visualize operations on heaps of integers
 //
-// CS 201 HW 7
-//
-// Name:
+// Celia Choy
 
 import java.applet.*;
 import java.awt.*;
