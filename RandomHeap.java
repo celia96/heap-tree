@@ -1,9 +1,6 @@
 // Random "heap" of integers, implemented using IntTree
 //
-// use this to test your tree drawing method before you write
-// IntVectorHeap and IntSkewHeap
-//
-// CS 201 HW 7
+// Celia Choy
 
 import java.util.*; // for Random
 
