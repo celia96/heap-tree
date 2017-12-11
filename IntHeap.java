@@ -1,6 +1,6 @@
 // Interface for heaps of integers
 //
-// CS 201 HW 7
+// Celia Choy
 
 public interface IntHeap {
 
