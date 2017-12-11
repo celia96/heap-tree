@@ -2,9 +2,7 @@
 //
 // based on Bailey's "SkewHeap"
 //
-// CS 201 HW 7
-//
-// Name:
+// Celia Choy
 
 public class IntSkewHeap implements IntHeap {
 
