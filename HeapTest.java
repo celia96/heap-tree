@@ -169,17 +169,6 @@ class HeapCanvas extends Canvas {
     // Each leaf is drawn as a circle with radius rad.
     public static void drawHeap(Graphics g, IntHeap h, int l, int r,
                       int y, int dy, int rad) {
-
-        /**********************************************
-         *  complete the code below to draw the tree  *
-         *  
- 			g.setColor(Color.black);
- 			g.setColor(Color.yellow);
- 			g.drawLine(x1, y1, x2, y2);
- 			g.drawOval(x, y, width, height);
- 			g.fillOval(x, y, width, height);
-         **********************************************/
- 
         int x = (l + r) / 2;
         g.setColor(Color.black);
         if (h.isEmpty()) {
